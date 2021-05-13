@@ -196,7 +196,7 @@
 
       # Alterar o nome para um vector de nomes
       mg.nomes = ["Arthur", "Rafaella", "Alpha",
-        "Gabriel Pato"]
+        "Gabriel Pato", "Devilirio"]
       mg.diz_ola
       mg.diz_adeus
 
