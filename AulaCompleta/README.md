@@ -122,7 +122,7 @@
 
 ### Modificando Classes
 
- ``ruby
+ ```ruby
     class Anfitrião
         attr_accessot :nome
     end
