@@ -14,7 +14,7 @@
 * puts
 * p
 
-    ```ruby
+```ruby
     print("Hello world")
     print "Hello world"
 
@@ -23,7 +23,7 @@
 
     p("Hello world")
     p "Hello World"
-    ```
+ ```
 
 ## Calculadora
 
@@ -35,7 +35,7 @@
 * raiz quadrada (sqrt)
 * variáveis e constantes
 
-    ```ruby
+```ruby
     adc = 1 + 1
     sub = 2 - 1
     mult = 3 * 2
@@ -46,7 +46,7 @@
     4 %3
 
     a = Math.sqrt(9)
-    ```
+```
 
 ## Hash e Array
 * O que é uma hash
@@ -61,7 +61,7 @@
 * tratamento de string
 * retorno
 
-    ```ruby
+```ruby
     def h(nome = "Mundo")
         puts "Olá #{nome.capitalize}"
     end
@@ -69,7 +69,7 @@
     h "chris"
 
     h
-    ```
+```
 
 ## Classes
 
@@ -77,7 +77,7 @@
 * def initialize
 * variáveis de instância 
 
-    ```ruby
+```ruby
     class Anfitriao
         def initialize(nome = "Mundo")
             @nome = nome
@@ -89,46 +89,46 @@
             puts "Adeus #{@nome}, volte sempre."
         end
     end
-    ```
+```
 
 ### Criação de um objeto
 * Criar um objeto
 
 * Usar um objeto
 
-        ```ruby
+```ruby
         g = Anfitriao.new("Arthur")
         g.diz_ola
         g.diz_adeus
-        ```
+```
     
 * Para saber todos os métodos de instância: 
-        ```ruby
+    ```ruby
         Anfitriao.instance_methods(false)
-        ```
+    ```
     
 * Para saber os métodos que você criou:
-      ```ruby
+    ```ruby
       Anfitriao.instance_methods(false)
-      ```
+    ```
 
 * Podemos explorar muito mais coisas! Um exemplo é ver os métodos que nosso objeto pode responder:
 
-      ```ruby
+ ```ruby
         g.respond_to?("nome") # false
         g.respond_to?("diz_ola") # true
         g.respond_to?("to_s") # true
-      ```
+ ```
 
 ### Modificando Classes
 
-    ```ruby
+ ``ruby
     class Anfitrião
         attr_accessot :nome
     end
-    ```
+ ```
 
-    ```ruby
+```ruby
     g = Anfitriao.new("Rafaella")
 
     g.respond_to?("nome") # Retorna true
@@ -138,7 +138,7 @@
 
     g.nome="Arthur"
     g.diz_ola
-    ```
+```
 
 #### Exemplo final da Documentação
 
