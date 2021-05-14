@@ -1,5 +1,5 @@
 # Curso_Ruby
-
+Este e mais vários tópicos serão abordados na aula de Ruby Básico pelo Arthur Ottoni no youtube;
 
 ## Tipos de dados
 
@@ -206,4 +206,10 @@
       mg.diz_adeus
     end
     ```
+---
 
+
+## About me
+
+* Youtube channel: <a href="https://www.youtube.com/channel/UCQxsPy4aLwGQ9fjZhsDJ70Q" target="_blank">Click Here</a>
+* Instagram: <a href="https://www.instagram.com/ottoni.arthur" target="_blank">Click Here</a>
