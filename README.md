@@ -2,36 +2,56 @@
 
 - Neste curso, abordaremos o básico da linguagem de programação Ruby! O curso abordará o básico da sintaxe de uma forma descomplicada até chegar no início de programação orientada a objetos(POO)!
 
-## Introdução aos Tipos de Dados
+## Primeira Aula
+
+Nesta primeira aula:
+
+- Veremos os **Tipos de Dados** no Ruby
+- Faremos nosso primeiro programa, que falará "Hello world""
+- Veremos como fazer cálculos em Ruby
+- Vamos aprender a declarar variáveis
+- Faremos nosso segundo programa! Uma calculadora
+
+### Introdução aos Tipos de Dados
 
 - Veremos dos Tipos de Dados e o motivo de não existir "Tipos Primitivos" em Ruby.
 - Veremos os Tipos: Integer, Float, String, Boolean (TrueClass, FalseClass), Array's, Hash's
 - Veremos como modificar o tipo de uma variável utilizando o método "to"
 
-## Hello World
+### Hello World
 
 - Veremos o puts, print e p e a diferença entre eles
 - Veremos a diferença entre aspas duplas e simples em Ruby com Interpolação
 - Faremos o famoso "Hello world" em de forma simples
 
-## Operadores e Cálculos
+### Operadores e Cálculos
 
 - Veremos os operadores aritméticos
 - Veremos os operadores lógicos
 - Veremos os operadores relacionais
 
-## Variáveis e Contantes
+### Variáveis e Contantes
 
 - Veremos o que são variáveis
 - Veremos o que são constantes
 - Veremos como declarar constantes e variáveis em ruby
 
-## Aprofundando em Strings
+## Segunda Aula
+
+Nesta segunda aula:
+
+- Veremos as **strings** de forma mais avançada
+- Aprenderemos formas de manipular **strings**
+- Veremos os **symbols** e suas características
+- Aprenderemos formas de criar **Array's** e **Hash's**
+- Veremos formas de manipular os **Arrays **e **Hash's**
+
+### Aprofundando em Strings
 
 - Veremos diversos tipos de manipulação de Strings
 - Veremos formas de tratamento de Strings
 
-## Aprofundando nos Array's e Hash's
+### Aprofundando nos Array's e Hash's
 
 - Veremos formas de criar Array
 - Veremos formas de manipular Array
@@ -39,36 +59,50 @@
 - Veremos formas de manipular Hash
 - Veremos o que são sybols
 
-## Estruturas de repetição
+## Terceira Aula
+
+Nesta terceira aula:
+
+- Veremos as estruturas de repetição e decisão do Ruby
+- Aprenderemos a usar as estruturas de repetição e decisão
+- Vamos criar um programa de cadastro de Dev's com validação
+
+### Estruturas de repetição
 
 - Veremos as estruturas de repetição em Ruby
 - Veremos como utilizar cada estrutura de repetição do Ruby
 
-## Estruturas de decisão
+### Estruturas de decisão
 
 - Veremos as estruturas de decisão em Ruby
 - Veremos como utilizar cada estrutura de decisão do Ruby
 
-## Métodos
+## Quarta Aula
+
+- Aprenderemos a criar métodos com as **def's**
+- Aprenderemos sobre **Class** e como usar
+- Aprenderemos o conceito de *Programação Orientada a Objetos*
+- Aplicaremos todos nossos conhecimentos criando um mini jogo de pokémon!
+
+### Métodos
 
 - Veremos como definir métodos com def
 - Veremos como passar parâmetros na def
 - Veremos como colocar parâmetros padrões na def
 - Veremos como funciona o return
 
-## Classes
+### Classes
 
 - Veremos o que são classes
 - Veremos como iniciar uma class
 - Veremos a def initialize
 - Veremos variáveis de instância
 
-## POO
+### POO
 
 - Veremos os fundamentos da programação orientada a objetos
 - Veremos como criar um objeto
 - Veremos como utilizar o objeto
-
 ---
 
 
