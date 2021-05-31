@@ -15,7 +15,7 @@ Nesta primeira aula:
 ### Introdução aos Tipos de Dados
 
 - Veremos dos Tipos de Dados e o motivo de não existir "Tipos Primitivos" em Ruby.
-- Veremos os Tipos: Integer, Float, String, Boolean (TrueClass, FalseClass), Array's, Hash's
+- Veremos os Tipos: Integer, Float, String, Symbols, Boolean (TrueClass, FalseClass), Array's, Hash's
 - Veremos como modificar o tipo de uma variável utilizando o método "to"
 
 ### Hello World
