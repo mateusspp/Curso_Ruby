@@ -30,11 +30,11 @@ Nesta primeira aula:
 - Veremos os operadores lógicos
 - Veremos os operadores relacionais
 
-### Variáveis e Contantes
+### Variáveis e Constantes
 
 - Veremos o que são variáveis
 - Veremos o que são constantes
-- Veremos como declarar constantes e variáveis em ruby
+- Veremos como declarar constantes e variáveis em Ruby
 
 ## Segunda Aula
 
@@ -82,7 +82,7 @@ Nesta terceira aula:
 - Aprenderemos a criar métodos com as **def's**
 - Aprenderemos sobre **Class** e como usar
 - Aprenderemos o conceito de *Programação Orientada a Objetos*
-- Aplicaremos todos nossos conhecimentos criando um mini jogo de pokémon!
+- Aplicaremos todos nossos conhecimentos criando um mini jogo de Pokémon!
 
 ### Métodos
 
