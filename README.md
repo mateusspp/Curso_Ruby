@@ -2,7 +2,7 @@
 
 - Neste curso, abordaremos o básico da linguagem de programação Ruby! O curso abordará o básico da sintaxe de uma forma descomplicada até chegar no início de programação orientada a objetos(POO)!
 
-## Primeira Aula
+## Primeiro Módulo
 
 Nesta primeira aula:
 
@@ -36,7 +36,7 @@ Nesta primeira aula:
 - Veremos o que são constantes
 - Veremos como declarar constantes e variáveis em Ruby
 
-## Segunda Aula
+## Segundo Módulo
 
 Nesta segunda aula:
 
@@ -59,7 +59,7 @@ Nesta segunda aula:
 - Veremos formas de manipular Hash
 - Veremos o que são sybols
 
-## Terceira Aula
+## Terceiro Módulo
 
 Nesta terceira aula:
 
@@ -77,7 +77,7 @@ Nesta terceira aula:
 - Veremos as estruturas de decisão em Ruby
 - Veremos como utilizar cada estrutura de decisão do Ruby
 
-## Quarta Aula
+## Quarto Módulo
 
 - Aprenderemos a criar métodos com as **def's**
 - Aprenderemos sobre **Class** e como usar
